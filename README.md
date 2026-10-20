@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantum stack** · Team ID `VTU-QFF-HC-0135` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantum stack)
+[⬆ Back to Top](#quantum-stack)
 
 </div>
